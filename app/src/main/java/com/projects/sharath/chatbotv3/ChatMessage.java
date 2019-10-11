@@ -6,7 +6,7 @@ import android.os.Parcelable;
 import static java.lang.Boolean.parseBoolean;
 
 /**
- * Created by Yashasvi on 15-04-2017.
+ * Created by Sharath on 15-04-2017.
  */
 
 public class ChatMessage implements Parcelable{

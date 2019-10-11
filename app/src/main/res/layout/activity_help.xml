@@ -60,7 +60,7 @@
         android:textColor="@android:color/white" />
 
     <TextView
-        android:text="yashasvi.asthana@gmail.com"
+        android:text="Sharath.asthana@gmail.com"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/textView6"
